@@ -1,0 +1,24 @@
+{
+  "name": "Kuca meda Cukalovic",
+  "authors": [
+    "skendzicr <skendzic.radovan@gmail.com>"
+  ],
+  "description": "Najbolji med iz najbolje opstine u Srbiji",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "med",
+    "medovaca",
+    "indjija",
+    "propolis"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
